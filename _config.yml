@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 李理敬的个人博客
-subtitle: 根本不想写，看书睡觉还来不及呢。
-description: 因为最近面试才写，梳理自己对知识点的表达，以及回顾知识体系。
+title: 李理敬
+subtitle: 
+description: 回顾知识体系。
 author: lilijing
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

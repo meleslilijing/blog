@@ -10,4 +10,4 @@ blog's URL: https://meleslilijing.github.io
 
 ### Hexo
 https://hexo.io/  
-http://jiji262.github.io/2016/04/15/2016-04-15-hexo-github-pages-blog/
+教程 http://jiji262.github.io/2016/04/15/2016-04-15-hexo-github-pages-blog/
