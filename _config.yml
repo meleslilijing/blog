@@ -5,7 +5,7 @@
 # Site
 title: 李理敬
 subtitle: 
-description: 只整理这几年的笔记，对用户不友好。
+description: 整理这几年的笔记，梳理自己的知识结构建立体系。对不记录碎片知识。
 author: lilijing
 language: zh-Hans
 timezone:
@@ -30,6 +30,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
+auto_spacing: true
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
